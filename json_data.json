@@ -1,0 +1,632 @@
+[
+  {
+    "latitude": 6.770146,
+    "longitude": 93.839385,
+    "number_of_species": 52,
+    "number_of_lifeForms": 4,
+    "number_of_vegetations": 2
+  },
+  {
+    "latitude": 6.816389,
+    "longitude": 93.862556,
+    "number_of_species": 16,
+    "number_of_lifeForms": 4,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 6.818278,
+    "longitude": 93.852222,
+    "number_of_species": 36,
+    "number_of_lifeForms": 4,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 6.819141,
+    "longitude": 93.861848,
+    "number_of_species": 28,
+    "number_of_lifeForms": 4,
+    "number_of_vegetations": 2
+  },
+  {
+    "latitude": 6.819419,
+    "longitude": 93.807923,
+    "number_of_species": 4,
+    "number_of_lifeForms": 2,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 7.029763,
+    "longitude": 93.906845,
+    "number_of_species": 21,
+    "number_of_lifeForms": 4,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 7.032599,
+    "longitude": 93.911414,
+    "number_of_species": 34,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 7.032627,
+    "longitude": 93.911608,
+    "number_of_species": 13,
+    "number_of_lifeForms": 4,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 7.038831,
+    "longitude": 93.908926,
+    "number_of_species": 5,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 7.077401,
+    "longitude": 93.893909,
+    "number_of_species": 2,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 7.104,
+    "longitude": 93.880446,
+    "number_of_species": 4,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 7.121035,
+    "longitude": 93.645828,
+    "number_of_species": 31,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 7.131981,
+    "longitude": 93.874836,
+    "number_of_species": 3,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 7.948111,
+    "longitude": 93.333889,
+    "number_of_species": 12,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 7.995731,
+    "longitude": 93.396192,
+    "number_of_species": 12,
+    "number_of_lifeForms": 4,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 8.036083,
+    "longitude": 93.512222,
+    "number_of_species": 32,
+    "number_of_lifeForms": 5,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 10.513746,
+    "longitude": 92.507167,
+    "number_of_species": 9,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 10.518613,
+    "longitude": 92.487016,
+    "number_of_species": 19,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 10.532716,
+    "longitude": 92.538205,
+    "number_of_species": 20,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 10.534647,
+    "longitude": 92.467702,
+    "number_of_species": 15,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 10.536849,
+    "longitude": 92.543344,
+    "number_of_species": 21,
+    "number_of_lifeForms": 2,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 10.608988,
+    "longitude": 92.420004,
+    "number_of_species": 15,
+    "number_of_lifeForms": 2,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 10.679452,
+    "longitude": 92.591975,
+    "number_of_species": 17,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 10.778861,
+    "longitude": 92.393139,
+    "number_of_species": 16,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 10.781556,
+    "longitude": 92.388722,
+    "number_of_species": 8,
+    "number_of_lifeForms": 2,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 10.784397,
+    "longitude": 92.386326,
+    "number_of_species": 12,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 10.800947,
+    "longitude": 92.572861,
+    "number_of_species": 24,
+    "number_of_lifeForms": 2,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 10.859414,
+    "longitude": 92.463788,
+    "number_of_species": 14,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.439943,
+    "longitude": 92.628085,
+    "number_of_species": 24,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.559756,
+    "longitude": 92.73086,
+    "number_of_species": 4,
+    "number_of_lifeForms": 2,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.56002,
+    "longitude": 92.729668,
+    "number_of_species": 1,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.56177,
+    "longitude": 92.549454,
+    "number_of_species": 12,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.563099,
+    "longitude": 92.541191,
+    "number_of_species": 14,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.568056,
+    "longitude": 92.591389,
+    "number_of_species": 24,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.568111,
+    "longitude": 92.591361,
+    "number_of_species": 13,
+    "number_of_lifeForms": 4,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.58425,
+    "longitude": 92.537667,
+    "number_of_species": 19,
+    "number_of_lifeForms": 4,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.61436,
+    "longitude": 92.689259,
+    "number_of_species": 5,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.643389,
+    "longitude": 92.648389,
+    "number_of_species": 3,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.644,
+    "longitude": 92.648556,
+    "number_of_species": 33,
+    "number_of_lifeForms": 4,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.646472,
+    "longitude": 92.648611,
+    "number_of_species": 5,
+    "number_of_lifeForms": 2,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.697806,
+    "longitude": 92.613528,
+    "number_of_species": 28,
+    "number_of_lifeForms": 4,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.698986,
+    "longitude": 92.733145,
+    "number_of_species": 24,
+    "number_of_lifeForms": 4,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.718639,
+    "longitude": 92.613806,
+    "number_of_species": 3,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.798442,
+    "longitude": 92.712029,
+    "number_of_species": 5,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.826083,
+    "longitude": 92.659889,
+    "number_of_species": 6,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.838943,
+    "longitude": 93.04663,
+    "number_of_species": 2,
+    "number_of_lifeForms": 2,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.83916,
+    "longitude": 93.047304,
+    "number_of_species": 29,
+    "number_of_lifeForms": 4,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.841972,
+    "longitude": 93.056127,
+    "number_of_species": 27,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 11.973548,
+    "longitude": 92.594003,
+    "number_of_species": 5,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.024287,
+    "longitude": 92.973323,
+    "number_of_species": 1,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.032569,
+    "longitude": 92.973283,
+    "number_of_species": 1,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.033972,
+    "longitude": 92.9775,
+    "number_of_species": 1,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.06125,
+    "longitude": 93.000944,
+    "number_of_species": 2,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.068808,
+    "longitude": 92.96649,
+    "number_of_species": 1,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.072343,
+    "longitude": 93.013068,
+    "number_of_species": 1,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.076083,
+    "longitude": 93.009806,
+    "number_of_species": 2,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.102194,
+    "longitude": 92.724,
+    "number_of_species": 22,
+    "number_of_lifeForms": 4,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.113139,
+    "longitude": 93.0535,
+    "number_of_species": 1,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.122583,
+    "longitude": 92.806444,
+    "number_of_species": 4,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.129516,
+    "longitude": 92.812291,
+    "number_of_species": 10,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.131923,
+    "longitude": 92.80278,
+    "number_of_species": 15,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.132097,
+    "longitude": 92.815272,
+    "number_of_species": 8,
+    "number_of_lifeForms": 4,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.134266,
+    "longitude": 92.809006,
+    "number_of_species": 13,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.151528,
+    "longitude": 92.760556,
+    "number_of_species": 4,
+    "number_of_lifeForms": 2,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.165333,
+    "longitude": 92.765444,
+    "number_of_species": 10,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.21852,
+    "longitude": 92.769508,
+    "number_of_species": 2,
+    "number_of_lifeForms": 2,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.242464,
+    "longitude": 92.750919,
+    "number_of_species": 4,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.244083,
+    "longitude": 92.752417,
+    "number_of_species": 23,
+    "number_of_lifeForms": 2,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.245181,
+    "longitude": 93.086693,
+    "number_of_species": 4,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.254444,
+    "longitude": 92.782528,
+    "number_of_species": 28,
+    "number_of_lifeForms": 4,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.322934,
+    "longitude": 92.789818,
+    "number_of_species": 4,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.33475,
+    "longitude": 92.771278,
+    "number_of_species": 3,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.338306,
+    "longitude": 92.772333,
+    "number_of_species": 2,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.453228,
+    "longitude": 92.895537,
+    "number_of_species": 4,
+    "number_of_lifeForms": 2,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.454673,
+    "longitude": 92.89687,
+    "number_of_species": 3,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.461471,
+    "longitude": 92.909614,
+    "number_of_species": 3,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.469749,
+    "longitude": 92.931903,
+    "number_of_species": 2,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.472952,
+    "longitude": 92.906003,
+    "number_of_species": 6,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.473,
+    "longitude": 92.880333,
+    "number_of_species": 2,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.475,
+    "longitude": 92.88233,
+    "number_of_species": 1,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.478592,
+    "longitude": 92.848356,
+    "number_of_species": 6,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.499306,
+    "longitude": 92.85,
+    "number_of_species": 4,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.618306,
+    "longitude": 92.949472,
+    "number_of_species": 4,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.860389,
+    "longitude": 92.84825,
+    "number_of_species": 10,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.864194,
+    "longitude": 92.850194,
+    "number_of_species": 14,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.878333,
+    "longitude": 92.917083,
+    "number_of_species": 3,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.884694,
+    "longitude": 92.876472,
+    "number_of_species": 14,
+    "number_of_lifeForms": 3,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.888806,
+    "longitude": 92.874306,
+    "number_of_species": 1,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 12.907989,
+    "longitude": 92.79564,
+    "number_of_species": 20,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  },
+  {
+    "latitude": 13.667667,
+    "longitude": 93.007947,
+    "number_of_species": 3,
+    "number_of_lifeForms": 1,
+    "number_of_vegetations": 1
+  }
+]
